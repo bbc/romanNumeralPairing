@@ -9,7 +9,7 @@
 https://roman-numeral-service.herokuapp.com/roman/1
 
 # Run test to produce html test report
-  debugg=true npm t
+  debug=true npm t
 
 The following table gives the (Europeanized) Roman numerals for the first few positive integers.
 
